@@ -1,0 +1,36 @@
+{
+    "userMap": {
+        "41751a62556c091499b00cb583bc8180f80c2fea": {
+            "openId": "ouOYX0fZCkYzPSmQW4NOvh537RU0",
+            "nickName": "龙",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "Shenzhen",
+            "province": "Guangdong",
+            "country": "CN",
+            "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/ic2PcAKfUe7rOlSDPsKH4am1wKib9LK2g1EAaq0icCpibuumC1pcxoV2hicrBkbLbfyibCzws15g1x1WA9WNxUGVKEgw\/0",
+            "watermark": {
+                "timestamp": 1487599677,
+                "appid": "wx755c8908e22d93cc"
+            }
+        },
+        "4d72f398ce05686724969ff46891461ddb2c21d9": {
+            "openId": "ouOYX0fZCkYzPSmQW4NOvh537RU0",
+            "nickName": "龙",
+            "gender": 1,
+            "language": "zh_CN",
+            "city": "Shenzhen",
+            "province": "Guangdong",
+            "country": "CN",
+            "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/ic2PcAKfUe7rOlSDPsKH4am1wKib9LK2g1EAaq0icCpibuumC1pcxoV2hicrBkbLbfyibCzws15g1x1WA9WNxUGVKEgw\/0",
+            "watermark": {
+                "timestamp": 1487599677,
+                "appid": "wx755c8908e22d93cc"
+            }
+        }
+    },
+    "connectedTunnelIds": [
+        "41751a62556c091499b00cb583bc8180f80c2fea",
+        "4d72f398ce05686724969ff46891461ddb2c21d9"
+    ]
+}
